@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Geral",SPORT TV +
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Geral",1. SPORT TV +
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116197?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Geral",SPORT TV 1
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Geral",2. SPORT TV 1
 http://mains.services:2086/nick5404/9928627/92132?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Geral",SPORT TV 2
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Geral",3. SPORT TV 2
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116201?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Geral",SPORT TV 3
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116207?checkedby:iptvcat.com
