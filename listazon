@@ -1,81 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="PT" tvg-logo="" group-title="Undefined",101 RTP 1
-http://dream4k.co:2082/mminass770399/alvrdbib3s/48584?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",102 RTP 2
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",103 SIC
-http://mains.services:2086/nick5404/9928627/92056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",104 TVI
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116182?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",105 PORTO CANAL
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116194?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",106 SIC NOTICIAS
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116177?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",107 RTP 3
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116164?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",108 TVI 24
-http://iptv.csserv.co:8000/live/clientr725/631739/1054.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",109 CM TV
-http://iptv.csserv.co:8000/live/clientr725/631739/2078.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",110 CANAL 11
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116227?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",111 SPORT TV +
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116197?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",112 SPORT TV 1
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1
+http://mains.services:2086/nick5404/9928627/92048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV +
+http://mains.services:2086/nick5404/9928627/92122?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
 http://mains.services:2086/nick5404/9928627/92132?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",113 SPORT TV 2
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116201?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",114 SPORT TV 3
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116207?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",115 SPORT TV 4
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116209?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",116 SPORT TV 5
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116211?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",117 ELEVEN SPORTS 1
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116214?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",118 ELEVEN SPORTS 2
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116217?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",119 ELEVEN SPORTS 3
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116219?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",120 ELEVEN SPORTS 4
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116221?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",121 ELEVEN SPORTS 5
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116223?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",122 ELEVEN SPORTS 6
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116225?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",123 BENFICA TV
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116235?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",124 NOS Studios
-http://dream4k.co:2082/mminass770399/alvrdbib3s/439397?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",125 Hollywood
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/276646.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",126 AXN MOVIES
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/276655.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",127 AXN
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116276?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",128 AMC
-http://king-tv.online:80/wctinney/aRaD1Pq2Rg/276647.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",129 FOX
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116285?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",130 FOX LIFE
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116291?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",131 FOX MOVIES
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116293?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",132 FOX Crime
-http://iptv.csserv.co:8000/live/clientr725/631739/2480.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",133 FOX COMEDY
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116287?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",134 AXN WHITE
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116279?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",135 SYFY
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116273?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",136 DISCOVERY
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116261?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",137 NATIONAL GEOGRAPHIC
-http://dream4k.co:2082/mminass770399/alvrdbib3s/439401?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",138 National Geographic Wild
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/8833?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",139 ODISSEIA
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116269?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",140 HISTORIA
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116257?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 2 HD PT
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68992?checkedby:iptvcat.com
