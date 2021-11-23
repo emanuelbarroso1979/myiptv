@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1 1059
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159166.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1 HD5020
-http://mains.services:2086/nick5404/9928627/92048?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/121878?checkedby:iptvcat.com
