@@ -11,5 +11,5 @@ http://new-pro.tv:8080/golden_eagle/khalid/72008?checkedby:iptvcat.com
 http://new-pro.tv:8080/waelwael/2r1sBY8wJK/72008?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Porto Canal PT" tvg-name="Porto Canal PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="Undefined",Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="Undefined",RTP 1 
+#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="Undefined",RTP 1.4 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
