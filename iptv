@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 2 PT
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68958?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3985.ts?checkedby:iptvcat.com
