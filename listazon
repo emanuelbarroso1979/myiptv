@@ -1,5 +1,25 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1 1059
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159166.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1 HD
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/121878?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1
+http://mains.services:2086/nick5404/9928627/92137?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159121.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 FHD PT
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69004?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63712?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 HD PT
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69003?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 PT
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/69002?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 4K
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/71981?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 4K
+http://new-pro.tv:8080/golden_eagle/khalid/71981?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 8K
+http://new-pro.tv:8080/golden_eagle/khalid/71982?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 8K
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/71982?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 1 HD
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3MHHG4CKEwLxVGVfGn_w7w?checkedby:iptvcat.com
