@@ -1,7 +1,67 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159166.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 2 PT
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68958?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="Undefined",RTP 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159164.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159167.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159178.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159186.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 3
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159267.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC Notícias
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159262.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159266.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CANAL 11
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159147.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Porto Canal
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159275.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159090.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159091.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 3
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159100.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 4
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159105.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 5
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159107.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV NBA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159115.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159128.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159129.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3985.ts?checkedby:iptvcat.com
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159238.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN WHITE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159242.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN MOVIES
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/235699.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159245.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Comedy
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159247.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Crime
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159249.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Life
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159252.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX MOVIES
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159253.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Hollywood
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159233.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Top
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159220.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Top
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159218.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Edition
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159221.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Emotion
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159226.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Action
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159229.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159305.ts?checkedby:iptvcat.com
