@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTP1.png" group-title="Undefined",RTP 1
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png" group-title="Undefined",RTP 1
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729275?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/RTP2.png" group-title="Undefined",RTP 2
+#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png?v=3&w=860" group-title="Undefined",RTP 2
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729278?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SIC.png" group-title="Undefined",SIC
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729288?checkedby:iptvcat.com
