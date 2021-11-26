@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159124.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 2 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159128.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 3
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159129.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 1 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159090.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 2 HD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159091.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 3 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159100.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 4 FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159105.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV 5
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159107.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SportTV NBA FHD
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159115.ts?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729275?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 2
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729278?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729288?checkedby:iptvcat.com
+
