@@ -4,14 +4,14 @@ http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729275?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp2hd_85x70.jpg" group-title="Undefined",RTP 2
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729278?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sichd-85x70.jpg" group-title="Undefined",SIC
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159178.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729288?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvihd_85x70.jpg" group-title="Undefined",TVI
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159186.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp3hd_85x70.jpg" group-title="Undefined",RTP 3
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729279?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sicnoticiashd-85x70.jpg" group-title="Undefined",SIC Notícias
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159262.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/cnnportugal.png" group-title="Undefined",TVI 24
+http://xgtv.club:8080/k3restream/k3restream/40984.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/cnnportugal.png" group-title="Undefined",CNN
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159266.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CMTV.png" group-title="Undefined",CM TV
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729304?checkedby:iptvcat.com
@@ -64,7 +64,7 @@ http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729338?checkedby:iptvcat.co
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXMOVIES.png" group-title="Undefined",FOX MOVIES
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729335?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/HOLLY.png" group-title="Undefined",Hollywood
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159233.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729350?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cinemundo.pt/wp-content/uploads/2014/11/CINEMUNDO-AZUL3.png" group-title="Undefined",CINEMUNDO
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729348?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AMCHD.png" group-title="Undefined",AMC
