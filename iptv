@@ -1,71 +1,93 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_hd_85x70.jpg" group-title="Undefined",RTP 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159164.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729275?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp2hd_85x70.jpg" group-title="Undefined",RTP 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159167.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729278?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sichd-85x70.jpg" group-title="Undefined",SIC
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159178.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvihd_85x70.jpg" group-title="Undefined",TVI
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159186.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp3hd_85x70.jpg" group-title="Undefined",RTP 3
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159267.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729279?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sicnoticiashd-85x70.jpg" group-title="Undefined",SIC Notícias
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159262.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/cnnportugal.png" group-title="Undefined",TVI 24
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159266.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CMTV.png" group-title="Undefined",CM TV
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729304?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/11_85x70.jpg" group-title="Undefined",CANAL 11
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159147.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729420?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/porto_canal_85x70.jpg" group-title="Undefined",Porto Canal
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729285?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTVMAIS.png" group-title="Sport",SPORT TV+
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729423?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_1HD.png" group-title="Sport",SportTV 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159090.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729424?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" group-title="Sport",SportTV 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159091.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729431?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_3HD.png" group-title="Sport",SportTV 3
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159100.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729439?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_4HD.png" group-title="Sport",SportTV 4
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729442?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729440?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_5HD.png" group-title="Sport",SportTV 5
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159107.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729443?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NBATVHD.png" group-title="Sport",SportTV NBA
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159115.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729448?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos1.png" group-title="Sport",ELEVEN SPORTS 1
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159124.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729449?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/canalnos2.png" group-title="Sport",ELEVEN SPORTS 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159128.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729452?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP3HD.png" group-title="Sport",ELEVEN SPORTS 3
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR-pudK-GZWtlCYx6D3pyc7M?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729455?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP4HD.png" group-title="Sport",ELEVEN SPORTS 4
 http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729459?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP5HD.png" group-title="Sport",ELEVEN SPORTS 5
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/DESP6HD.png" group-title="Sport",ELEVEN SPORTS 6
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.cinemacity.pt/images/editorials/Logo_Benfica_TV.png" group-title="Undefined",BENFICA TV
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729466?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AXN.png" group-title="Undefined",AXN
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159238.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729342?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SET.png" group-title="Undefined",AXN WHITE
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159242.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729346?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AXNMovies.png" group-title="Undefined",AXN MOVIES
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/235699.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOX.png" group-title="Undefined",FOX
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159245.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729332?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FX.png" group-title="Undefined",FOX Comedy
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159247.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729337?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXCRIME.png" group-title="Undefined",FOX Crime
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159249.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729333?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXLIFE.png" group-title="Undefined",FOX Life
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159252.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729338?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/FOXMOVIES.png" group-title="Undefined",FOX MOVIES
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159253.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729335?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/HOLLY.png" group-title="Undefined",Hollywood
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159233.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.cinemundo.pt/wp-content/uploads/2014/11/CINEMUNDO-AZUL3.png" group-title="Undefined",CINEMUNDO
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/AMCHD.png" group-title="Undefined",AMC
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729341?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://seeklogo.com/images/S/syfy-logo-356212C6E8-seeklogo.com.png" group-title="Undefined",SYFY
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729351?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineTop.png" group-title="Undefined",TVCine Top
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159220.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729321?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEdition.png" group-title="Undefined",TVCine Edition
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159221.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729322?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineEmotion.png" group-title="Undefined",TVCine Emotion
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159226.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729327?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/TVCineAction.png" group-title="Undefined",TVCine Action
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159229.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729330?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/Discovery.png" group-title="Undefined",DISCOVERY CHANNEL
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159305.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-ED2006ECD6-seeklogo.com.png" group-title="Undefined",INVESTIGATION DISCOVERY
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://seeklogo.com/images/N/nat-geo-wild-logo-CFB1305DCD-seeklogo.com.png" group-title="Undefined",NAT GEO WILD
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729510?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://seeklogo.com/images/N/National_Geographic-logo-A43277202F-seeklogo.com.png" group-title="Undefined",NATIONAL GEOGRAPHIC
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729512?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://odisseia.pt/wp-content/themes/odisseia/img/Logos_Odisea.png" group-title="Undefined",ODISSEIA
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729517?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/24KITCHENHD.png" group-title="Undefined",24 Kitchen
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729519?checkedby:iptvcat.com
