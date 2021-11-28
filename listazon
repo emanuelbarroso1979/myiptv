@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729275?checkedby:iptvcat.com
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159164.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp2hd_85x70.jpg" group-title="Undefined",RTP 2
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729278?checkedby:iptvcat.com
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159167.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sichd-85x70.jpg" group-title="Undefined",SIC
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729288?checkedby:iptvcat.com
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159175.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvihd_85x70.jpg" group-title="Undefined",TVI
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/159186.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp3hd_85x70.jpg" group-title="Undefined",RTP 3
