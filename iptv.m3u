@@ -1,423 +1,423 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24Kitchen(src02).pt(m3u4u)" tvg-name="24 KITCHEN H.265/HEVC" tvg-logo="https://www.meo.pt/PublishingImages/canais/24-kitchen.png" group-title="Undefined" tvg-shift="+1",24 KITCHEN H.265/HEVC
+#EXTINF:-1 tvg-id="24Kitchen(src02).pt(m3u4u)" tvg-name="24 KITCHEN H.265/HEVC" tvg-logo="https://www.meo.pt/PublishingImages/canais/24-kitchen.png" group-title="Geral" tvg-shift="+1",24 KITCHEN H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2203?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="24Kitchen(src02).pt(m3u4u)" tvg-name="24 Kitchen FullHD" tvg-logo="https://www.meo.pt/PublishingImages/canais/24-kitchen.png" group-title="Undefined" tvg-shift="+1",24 Kitchen FullHD
+#EXTINF:-1 tvg-id="24Kitchen(src02).pt(m3u4u)" tvg-name="24 Kitchen FullHD" tvg-logo="https://www.meo.pt/PublishingImages/canais/24-kitchen.png" group-title="Geral" tvg-shift="+1",24 Kitchen FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49965?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ABolaTV(src01).pt(m3u4u)" tvg-name="A BOLA TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",A BOLA TV
+#EXTINF:-1 tvg-id="ABolaTV(src01).pt(m3u4u)" tvg-name="A BOLA TV" tvg-logo="" group-title="Geral" tvg-shift="+1",A BOLA TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2080?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AFRO MUSIC CHANNEL" tvg-logo="" group-title="Undefined" tvg-shift="+1",AFRO MUSIC CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AFRO MUSIC CHANNEL" tvg-logo="" group-title="Geral" tvg-shift="+1",AFRO MUSIC CHANNEL
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136674?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AMC(src01).pt(m3u4u)" tvg-name="AMC" tvg-logo="" group-title="Undefined" tvg-shift="+1",AMC
+#EXTINF:-1 tvg-id="AMC(src01).pt(m3u4u)" tvg-name="AMC" tvg-logo="" group-title="Geral" tvg-shift="+1",AMC
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2088?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AMC(src01).pt(m3u4u)" tvg-name="AMC" tvg-logo="" group-title="Undefined" tvg-shift="+1",AMC
+#EXTINF:-1 tvg-id="AMC(src01).pt(m3u4u)" tvg-name="AMC" tvg-logo="" group-title="Geral" tvg-shift="+1",AMC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132923?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AMC(src01).pt(m3u4u)" tvg-name="AMC HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",AMC HD
+#EXTINF:-1 tvg-id="AMC(src01).pt(m3u4u)" tvg-name="AMC HD" tvg-logo="" group-title="Geral" tvg-shift="+1",AMC HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/209534?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Undefined" tvg-shift="+1",AXN
+#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Geral" tvg-shift="+1",AXN
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/288?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Undefined" tvg-shift="+1",AXN
+#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Geral" tvg-shift="+1",AXN
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136668?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AXN Black" tvg-logo="" group-title="Undefined" tvg-shift="+1",AXN Black
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AXN Black" tvg-logo="" group-title="Geral" tvg-shift="+1",AXN Black
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49966?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN H.265/HEVC" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Undefined" tvg-shift="+1",AXN H.265/HEVC
+#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN H.265/HEVC" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Geral" tvg-shift="+1",AXN H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2233?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Undefined" tvg-shift="+1",AXN HD
+#EXTINF:-1 tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/axn.png" group-title="Geral" tvg-shift="+1",AXN HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205656?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXNMovies(src02).pt(m3u4u)" tvg-name="AXN MOVIES" tvg-logo="" group-title="Undefined" tvg-shift="+1",AXN MOVIES
+#EXTINF:-1 tvg-id="AXNMovies(src02).pt(m3u4u)" tvg-name="AXN MOVIES" tvg-logo="" group-title="Geral" tvg-shift="+1",AXN MOVIES
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/167481?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXNMovies(src02).pt(m3u4u)" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",AXN MOVIES HD
+#EXTINF:-1 tvg-id="AXNMovies(src02).pt(m3u4u)" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="Geral" tvg-shift="+1",AXN MOVIES HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205657?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE" tvg-logo="" group-title="Undefined" tvg-shift="+1",AXN WHITE
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE" tvg-logo="" group-title="Geral" tvg-shift="+1",AXN WHITE
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/289?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE" tvg-logo="" group-title="Undefined" tvg-shift="+1",AXN WHITE
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE" tvg-logo="" group-title="Geral" tvg-shift="+1",AXN WHITE
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/167482?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",AXN WHITE H.265/HEVC
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",AXN WHITE H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132925?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",AXN WHITE HD
+#EXTINF:-1 tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN WHITE HD" tvg-logo="" group-title="Geral" tvg-shift="+1",AXN WHITE HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205658?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="BabyTV(src01).pt(m3u4u)" tvg-name="BABY TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",BABY TV
+#EXTINF:-1 tvg-id="BabyTV(src01).pt(m3u4u)" tvg-name="BABY TV" tvg-logo="" group-title="Geral" tvg-shift="+1",BABY TV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136667?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="BabyTV(src01).pt(m3u4u)" tvg-name="BABY TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",BABY TV
+#EXTINF:-1 tvg-id="BabyTV(src01).pt(m3u4u)" tvg-name="BABY TV" tvg-logo="" group-title="Geral" tvg-shift="+1",BABY TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2398?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BIGGS" tvg-logo="" group-title="Undefined" tvg-shift="+1",BIGGS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BIGGS" tvg-logo="" group-title="Geral" tvg-shift="+1",BIGGS
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/180946?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Blaze(src02).pt(m3u4u)" tvg-name="BLAZE" tvg-logo="" group-title="Undefined" tvg-shift="+1",BLAZE
+#EXTINF:-1 tvg-id="Blaze(src02).pt(m3u4u)" tvg-name="BLAZE" tvg-logo="" group-title="Geral" tvg-shift="+1",BLAZE
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/158901?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BLOOMBERG" tvg-logo="" group-title="Undefined" tvg-shift="+1",BLOOMBERG
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BLOOMBERG" tvg-logo="" group-title="Geral" tvg-shift="+1",BLOOMBERG
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136683?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="BENFICATV(src01).pt(m3u4u)" tvg-name="BTV" tvg-logo="" group-title="Undefined" tvg-shift="+1",BTV
+#EXTINF:-1 tvg-id="BENFICATV(src01).pt(m3u4u)" tvg-name="BTV" tvg-logo="" group-title="Geral" tvg-shift="+1",BTV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161970?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="BENFICATV(src01).pt(m3u4u)" tvg-name="BTV HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",BTV HD
+#EXTINF:-1 tvg-id="BENFICATV(src01).pt(m3u4u)" tvg-name="BTV HD" tvg-logo="" group-title="Geral" tvg-shift="+1",BTV HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205659?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="BENFICATV(src01).pt(m3u4u)" tvg-name="Benfica TV FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",Benfica TV FullHD
+#EXTINF:-1 tvg-id="BENFICATV(src01).pt(m3u4u)" tvg-name="Benfica TV FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",Benfica TV FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49967?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="CANAL 11 H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",CANAL 11 H.265/HEVC
+#EXTINF:-1 tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="CANAL 11 H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",CANAL 11 H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/203037?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="CANAL 11 HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",CANAL 11 HD
+#EXTINF:-1 tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="CANAL 11 HD" tvg-logo="" group-title="Geral" tvg-shift="+1",CANAL 11 HD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52208?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="CANAL 11 HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",CANAL 11 HD
+#EXTINF:-1 tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="CANAL 11 HD" tvg-logo="" group-title="Geral" tvg-shift="+1",CANAL 11 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205660?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Historia(src01).pt(m3u4u)" tvg-name="CANAL HISTORIA" tvg-logo="" group-title="Undefined" tvg-shift="+1",CANAL HISTORIA
+#EXTINF:-1 tvg-id="Historia(src01).pt(m3u4u)" tvg-name="CANAL HISTORIA" tvg-logo="" group-title="Geral" tvg-shift="+1",CANAL HISTORIA
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46617?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CanalQ(src01).pt(m3u4u)" tvg-name="CANAL Q" tvg-logo="" group-title="Undefined" tvg-shift="+1",CANAL Q
+#EXTINF:-1 tvg-id="CanalQ(src01).pt(m3u4u)" tvg-name="CANAL Q" tvg-logo="" group-title="Geral" tvg-shift="+1",CANAL Q
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2066?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CacaePesca(src01).pt(m3u4u)" tvg-name="CAÇA & PESCA" tvg-logo="" group-title="Undefined" tvg-shift="+1",CAÇA & PESCA
+#EXTINF:-1 tvg-id="CacaePesca(src01).pt(m3u4u)" tvg-name="CAÇA & PESCA" tvg-logo="" group-title="Geral" tvg-shift="+1",CAÇA & PESCA
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2082?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CBSReality(src01).pt(m3u4u)" tvg-name="CBS Reality" tvg-logo="" group-title="Undefined" tvg-shift="+1",CBS Reality
+#EXTINF:-1 tvg-id="CBSReality(src01).pt(m3u4u)" tvg-name="CBS Reality" tvg-logo="" group-title="Geral" tvg-shift="+1",CBS Reality
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49970?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Cinemundo(src02).pt(m3u4u)" tvg-name="CINEMUNDO" tvg-logo="https://www.meo.pt/PublishingImages/canais/cinemundo.png" group-title="Undefined" tvg-shift="+1",CINEMUNDO
+#EXTINF:-1 tvg-id="Cinemundo(src02).pt(m3u4u)" tvg-name="CINEMUNDO" tvg-logo="https://www.meo.pt/PublishingImages/canais/cinemundo.png" group-title="Geral" tvg-shift="+1",CINEMUNDO
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46621?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Cinemundo(src02).pt(m3u4u)" tvg-name="CINEMUNDO" tvg-logo="https://www.meo.pt/PublishingImages/canais/cinemundo.png" group-title="Undefined" tvg-shift="+1",CINEMUNDO
+#EXTINF:-1 tvg-id="Cinemundo(src02).pt(m3u4u)" tvg-name="CINEMUNDO" tvg-logo="https://www.meo.pt/PublishingImages/canais/cinemundo.png" group-title="Geral" tvg-shift="+1",CINEMUNDO
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132905?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CMTV(src02).pt(m3u4u)" tvg-name="CM TV" tvg-logo="https://www.meo.pt/PublishingImages/canais/cmtv-hd.png" group-title="Undefined" tvg-shift="+1",CM TV
+#EXTINF:-1 tvg-id="CMTV(src02).pt(m3u4u)" tvg-name="CM TV" tvg-logo="https://www.meo.pt/PublishingImages/canais/cmtv-hd.png" group-title="Geral" tvg-shift="+1",CM TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1619?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CMTV(src02).pt(m3u4u)" tvg-name="CMTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/cmtv-hd.png" group-title="Undefined" tvg-shift="+1",CMTV
+#EXTINF:-1 tvg-id="CMTV(src02).pt(m3u4u)" tvg-name="CMTV" tvg-logo="https://www.meo.pt/PublishingImages/canais/cmtv-hd.png" group-title="Geral" tvg-shift="+1",CMTV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2204?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CNN(src02).pt(m3u4u)" tvg-name="CNN PORTUGAL" tvg-logo="" group-title="Undefined" tvg-shift="+1",CNN PORTUGAL
+#EXTINF:-1 tvg-id="CNN(src02).pt(m3u4u)" tvg-name="CNN PORTUGAL" tvg-logo="" group-title="Geral" tvg-shift="+1",CNN PORTUGAL
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2221?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CrimeplusInvestigation(src01).pt(m3u4u)" tvg-name="CRIME + INVESTIGATION TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",CRIME + INVESTIGATION TV
+#EXTINF:-1 tvg-id="CrimeplusInvestigation(src01).pt(m3u4u)" tvg-name="CRIME + INVESTIGATION TV" tvg-logo="" group-title="Geral" tvg-shift="+1",CRIME + INVESTIGATION TV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136629?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DiscoveryChannel(src02).pt(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.meo.pt/PublishingImages/canais/discovery-channel.png" group-title="Undefined" tvg-shift="+1",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel(src02).pt(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.meo.pt/PublishingImages/canais/discovery-channel.png" group-title="Geral" tvg-shift="+1",DISCOVERY CHANNEL
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2226?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DiscoveryChannel(src02).pt(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.meo.pt/PublishingImages/canais/discovery-channel.png" group-title="Undefined" tvg-shift="+1",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DiscoveryChannel(src02).pt(m3u4u)" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.meo.pt/PublishingImages/canais/discovery-channel.png" group-title="Geral" tvg-shift="+1",DISCOVERY CHANNEL
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/743?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DiscoveryChannel(src02).pt(m3u4u)" tvg-name="DISCOVERY CHANNEL H.265/HEVC" tvg-logo="https://www.meo.pt/PublishingImages/canais/discovery-channel.png" group-title="Undefined" tvg-shift="+1",DISCOVERY CHANNEL H.265/HEVC
+#EXTINF:-1 tvg-id="DiscoveryChannel(src02).pt(m3u4u)" tvg-name="DISCOVERY CHANNEL H.265/HEVC" tvg-logo="https://www.meo.pt/PublishingImages/canais/discovery-channel.png" group-title="Geral" tvg-shift="+1",DISCOVERY CHANNEL H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/272332?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DisneyChannel(src01).pt(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Undefined" tvg-shift="+1",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel(src01).pt(m3u4u)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Geral" tvg-shift="+1",DISNEY CHANNEL
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2223?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DisneyJunior(src01).pt(m3u4u)" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Undefined" tvg-shift="+1",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt(m3u4u)" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Geral" tvg-shift="+1",DISNEY JUNIOR
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/742?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DisneyJunior(src01).pt(m3u4u)" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Undefined" tvg-shift="+1",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt(m3u4u)" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Geral" tvg-shift="+1",DISNEY JUNIOR
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2224?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DisneyJunior(src01).pt(m3u4u)" tvg-name="DISNEY JUNIOR Portugal" tvg-logo="" group-title="Undefined" tvg-shift="+1",DISNEY JUNIOR Portugal
+#EXTINF:-1 tvg-id="DisneyJunior(src01).pt(m3u4u)" tvg-name="DISNEY JUNIOR Portugal" tvg-logo="" group-title="Geral" tvg-shift="+1",DISNEY JUNIOR Portugal
 http://thetvvalet.com:8080/simon/simon/60304?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DOGTV(src02).pt(m3u4u)" tvg-name="DOG TV HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",DOG TV HD
+#EXTINF:-1 tvg-id="DOGTV(src02).pt(m3u4u)" tvg-name="DOG TV HD" tvg-logo="" group-title="Geral" tvg-shift="+1",DOG TV HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132909?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Discovery HD Showcase" tvg-logo="" group-title="Undefined" tvg-shift="+1",Discovery HD Showcase
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Discovery HD Showcase" tvg-logo="" group-title="Geral" tvg-shift="+1",Discovery HD Showcase
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2090?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="E(src01).pt(m3u4u)" tvg-name="E!" tvg-logo="" group-title="Undefined" tvg-shift="+1",E!
+#EXTINF:-1 tvg-id="E(src01).pt(m3u4u)" tvg-name="E!" tvg-logo="" group-title="Geral" tvg-shift="+1",E!
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132910?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="FashionTV(src02).pt(m3u4u)" tvg-name="FASHION TV" tvg-logo="https://www.meo.pt/PublishingImages/canais/ftv.png" group-title="Undefined" tvg-shift="+1",FASHION TV
+#EXTINF:-1 tvg-id="FashionTV(src02).pt(m3u4u)" tvg-name="FASHION TV" tvg-logo="https://www.meo.pt/PublishingImages/canais/ftv.png" group-title="Geral" tvg-shift="+1",FASHION TV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136676?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOOD NETWORK
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Geral" tvg-shift="+1",FOOD NETWORK
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/181785?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198366?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX COMEDY" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX COMEDY
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX COMEDY" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX COMEDY
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2208?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX CRIME
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX CRIME
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132913?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX CRIME
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX CRIME
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/879?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX CRIME H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX CRIME H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132914?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX CRIME HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX CRIME HD" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX CRIME HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/209536?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2206?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX HD" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205661?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX LIFE
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX LIFE
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/167480?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX LIFE
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX LIFE
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46631?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX LIFE H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX LIFE H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132915?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX LIFE HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX LIFE HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/233866?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX MOVIES HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX MOVIES HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/374641?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX MOVIES HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX MOVIES HD" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX MOVIES HD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46632?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX NEWS" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX NEWS" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX NEWS
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132917?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",FOX TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="FOX TV" tvg-logo="" group-title="Geral" tvg-shift="+1",FOX TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/740?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Food Network" tvg-logo="" group-title="Undefined" tvg-shift="+1",Food Network
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Food Network" tvg-logo="" group-title="Geral" tvg-shift="+1",Food Network
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49974?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox Comedy" tvg-logo="" group-title="Undefined" tvg-shift="+1",Fox Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox Comedy" tvg-logo="" group-title="Geral" tvg-shift="+1",Fox Comedy
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1517?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fuel TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",Fuel TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fuel TV" tvg-logo="" group-title="Geral" tvg-shift="+1",Fuel TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49975?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO INTER HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",GLOBO INTER HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO INTER HD" tvg-logo="" group-title="Geral" tvg-shift="+1",GLOBO INTER HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/246535?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO PORTUGAL" tvg-logo="" group-title="Undefined" tvg-shift="+1",GLOBO PORTUGAL
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="GLOBO PORTUGAL" tvg-logo="" group-title="Geral" tvg-shift="+1",GLOBO PORTUGAL
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2209?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORIA" tvg-logo="" group-title="Undefined" tvg-shift="+1",HISTORIA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HISTORIA" tvg-logo="" group-title="Geral" tvg-shift="+1",HISTORIA
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2227?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD" tvg-logo="" group-title="Undefined" tvg-shift="+1",HOLLYWOOD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD" tvg-logo="" group-title="Geral" tvg-shift="+1",HOLLYWOOD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132921?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD FHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD FHD" tvg-logo="" group-title="Geral" tvg-shift="+1",HOLLYWOOD FHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52187?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",HOLLYWOOD H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",HOLLYWOOD H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/196607?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",HOLLYWOOD HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="Geral" tvg-shift="+1",HOLLYWOOD HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/221898?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="Undefined" tvg-shift="+1",ID INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ID INVESTIGATION DISCOVERY" tvg-logo="" group-title="Geral" tvg-shift="+1",ID INVESTIGATION DISCOVERY
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136266?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",ID INVESTIGATION DISCOVERY HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ID INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="Geral" tvg-shift="+1",ID INVESTIGATION DISCOVERY HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136671?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="Undefined" tvg-shift="+1",Igreja Online
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Igreja Online" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="Geral" tvg-shift="+1",Igreja Online
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="JimJam" tvg-logo="" group-title="Undefined" tvg-shift="+1",JimJam
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="JimJam" tvg-logo="" group-title="Geral" tvg-shift="+1",JimJam
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49977?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PT | Kuriakos Cine" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Undefined" tvg-shift="+1",PT | Kuriakos Cine
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PT | Kuriakos Cine" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Geral" tvg-shift="+1",PT | Kuriakos Cine
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PT | Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Undefined" tvg-shift="+1",PT | Kuriakos Kids
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PT | Kuriakos Kids" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Geral" tvg-shift="+1",PT | Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Undefined" tvg-shift="+1",Kuriakos TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kuriakos TV" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Geral" tvg-shift="+1",Kuriakos TV
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LOLLY KIDS" tvg-logo="" group-title="Undefined" tvg-shift="+1",LOLLY KIDS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="LOLLY KIDS" tvg-logo="" group-title="Geral" tvg-shift="+1",LOLLY KIDS
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/333092?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MCM POP" tvg-logo="" group-title="Undefined" tvg-shift="+1",MCM POP
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MCM POP" tvg-logo="" group-title="Geral" tvg-shift="+1",MCM POP
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132890?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MCM TOP" tvg-logo="" group-title="Undefined" tvg-shift="+1",MCM TOP
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MCM TOP" tvg-logo="" group-title="Geral" tvg-shift="+1",MCM TOP
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/374673?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MEZZO" tvg-logo="" group-title="Undefined" tvg-shift="+1",MEZZO
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MEZZO" tvg-logo="" group-title="Geral" tvg-shift="+1",MEZZO
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136675?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MOTORVISION" tvg-logo="" group-title="Undefined" tvg-shift="+1",MOTORVISION
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MOTORVISION" tvg-logo="" group-title="Geral" tvg-shift="+1",MOTORVISION
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2073?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MOTORVISION TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",MOTORVISION TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MOTORVISION TV" tvg-logo="" group-title="Geral" tvg-shift="+1",MOTORVISION TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2081?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MOV HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",MOV HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="MOV HD" tvg-logo="" group-title="Geral" tvg-shift="+1",MOV HD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/272?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mtv Portuga" tvg-logo="" group-title="Undefined" tvg-shift="+1",Mtv Portuga
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mtv Portuga" tvg-logo="" group-title="Geral" tvg-shift="+1",Mtv Portuga
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2396?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Undefined" tvg-shift="+1",NAT GEO WILD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Geral" tvg-shift="+1",NAT GEO WILD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2228?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NATIONAL GEO" tvg-logo="" group-title="Undefined" tvg-shift="+1",NATIONAL GEO
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NATIONAL GEO" tvg-logo="" group-title="Geral" tvg-shift="+1",NATIONAL GEO
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/233871?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NATIONAL GEO H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",NATIONAL GEO H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NATIONAL GEO H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",NATIONAL GEO H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/132920?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Undefined" tvg-shift="+1",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Geral" tvg-shift="+1",NATIONAL GEOGRAPHIC
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2089?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICK JR." tvg-logo="" group-title="Undefined" tvg-shift="+1",NICK JR.
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICK JR." tvg-logo="" group-title="Geral" tvg-shift="+1",NICK JR.
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/181786?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICKELODEON" tvg-logo="" group-title="Undefined" tvg-shift="+1",NICKELODEON
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NICKELODEON" tvg-logo="" group-title="Geral" tvg-shift="+1",NICKELODEON
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2099?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIO" tvg-logo="" group-title="Undefined" tvg-shift="+1",NOS STUDIO
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIO" tvg-logo="" group-title="Geral" tvg-shift="+1",NOS STUDIO
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/202823?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIOS HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",NOS STUDIOS HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIOS HD" tvg-logo="" group-title="Geral" tvg-shift="+1",NOS STUDIOS HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205662?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIOS HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",NOS STUDIOS HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIOS HD" tvg-logo="" group-title="Geral" tvg-shift="+1",NOS STUDIOS HD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52186?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIOS Portugal" tvg-logo="" group-title="Undefined" tvg-shift="+1",NOS STUDIOS Portugal
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NOS STUDIOS Portugal" tvg-logo="" group-title="Geral" tvg-shift="+1",NOS STUDIOS Portugal
 http://thetvvalet.com:8080/simon/simon/60329?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Undefined" tvg-shift="+1",Nat Geo Wild
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Geral" tvg-shift="+1",Nat Geo Wild
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/738?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ODISSEIA" tvg-logo="" group-title="Undefined" tvg-shift="+1",ODISSEIA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ODISSEIA" tvg-logo="" group-title="Geral" tvg-shift="+1",ODISSEIA
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1859?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PANDA KIDS" tvg-logo="" group-title="Undefined" tvg-shift="+1",PANDA KIDS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PANDA KIDS" tvg-logo="" group-title="Geral" tvg-shift="+1",PANDA KIDS
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/361078?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PFC" tvg-logo="" group-title="Undefined" tvg-shift="+1",PFC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PFC" tvg-logo="" group-title="Geral" tvg-shift="+1",PFC
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46642?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PORTO CANAL" tvg-logo="" group-title="Undefined" tvg-shift="+1",PORTO CANAL
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PORTO CANAL" tvg-logo="" group-title="Geral" tvg-shift="+1",PORTO CANAL
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1515?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Panda" tvg-logo="" group-title="Undefined" tvg-shift="+1",Panda
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Panda" tvg-logo="" group-title="Geral" tvg-shift="+1",Panda
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49980?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Panda Biggs" tvg-logo="" group-title="Undefined" tvg-shift="+1",Panda Biggs
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Panda Biggs" tvg-logo="" group-title="Geral" tvg-shift="+1",Panda Biggs
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49981?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="REAL MADRID TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",REAL MADRID TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="REAL MADRID TV" tvg-logo="" group-title="Geral" tvg-shift="+1",REAL MADRID TV
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136663?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RECORD NEWS" tvg-logo="" group-title="Undefined" tvg-shift="+1",RECORD NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RECORD NEWS" tvg-logo="" group-title="Geral" tvg-shift="+1",RECORD NEWS
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212611?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="REDBULL TV 1080" tvg-logo="" group-title="Undefined" tvg-shift="+1",REDBULL TV 1080
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="REDBULL TV 1080" tvg-logo="" group-title="Geral" tvg-shift="+1",REDBULL TV 1080
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/178148?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 1
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 1
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1512?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 1
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 1
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2211?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1 H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 1 H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1 H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 1 H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205663?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1 HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 1 HD" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 1 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/162611?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 2
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 2
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1513?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 2
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 2
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2212?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2 H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 2 H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2 H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 2 H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/162612?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2 HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 2 HD" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 2 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205664?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 3" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 3
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 3" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 3
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136263?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 3 FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP 3 FullHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP 3 FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP 3 FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1514?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP AFRICA" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP AFRICA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP AFRICA" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP AFRICA
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136684?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP AÇORES" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP AÇORES
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP AÇORES" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP AÇORES
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2062?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP MEMÓRIA" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP MEMÓRIA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP MEMÓRIA" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP MEMÓRIA
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1857?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP ÁFRICA" tvg-logo="" group-title="Undefined" tvg-shift="+1",RTP ÁFRICA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP ÁFRICA" tvg-logo="" group-title="Geral" tvg-shift="+1",RTP ÁFRICA
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1519?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Real Madrid TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",Real Madrid TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Real Madrid TV" tvg-logo="" group-title="Geral" tvg-shift="+1",Real Madrid TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49982?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2216?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC CARAS" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC CARAS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC CARAS" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC CARAS
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136630?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC Caras HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC Caras HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC Caras HD" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC Caras HD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49983?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205665?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC HD" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/169304?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC K" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC K
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC K" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC K
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2217?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC Kids FHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC Kids FHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC Kids FHD" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC Kids FHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49984?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC MULHER" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC MULHER
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC MULHER" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC MULHER
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1520?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC NOTICIAS" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC NOTICIAS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC NOTICIAS" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC NOTICIAS
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2219?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC NOTICIAS" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC NOTICIAS
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC NOTICIAS" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC NOTICIAS
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/275?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC RADICAL FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",SIC RADICAL FullHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SIC RADICAL FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",SIC RADICAL FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/733?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SYFY FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",SYFY FullHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SYFY FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",SYFY FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/279?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SYFY HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",SYFY HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SYFY HD" tvg-logo="" group-title="Geral" tvg-shift="+1",SYFY HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/374644?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLC" tvg-logo="" group-title="Undefined" tvg-shift="+1",TLC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLC" tvg-logo="" group-title="Geral" tvg-shift="+1",TLC
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2091?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLC" tvg-logo="" group-title="Undefined" tvg-shift="+1",TLC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TLC" tvg-logo="" group-title="Geral" tvg-shift="+1",TLC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136681?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TOROS TV" tvg-logo="" group-title="Undefined" tvg-shift="+1",TOROS TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TOROS TV" tvg-logo="" group-title="Geral" tvg-shift="+1",TOROS TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46662?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRACE LATINA" tvg-logo="" group-title="Undefined" tvg-shift="+1",TRACE LATINA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRACE LATINA" tvg-logo="" group-title="Geral" tvg-shift="+1",TRACE LATINA
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/374536?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRACE NAIJA" tvg-logo="" group-title="Undefined" tvg-shift="+1",TRACE NAIJA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TRACE NAIJA" tvg-logo="" group-title="Geral" tvg-shift="+1",TRACE NAIJA
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/374533?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE ACTION FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV CINE ACTION FullHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE ACTION FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",TV CINE ACTION FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/270?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE EDITION FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV CINE EDITION FullHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE EDITION FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",TV CINE EDITION FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/269?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE Emotion  FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV CINE Emotion  FullHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE Emotion  FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",TV CINE Emotion  FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/268?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE TOP  FullHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV CINE TOP  FullHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV CINE TOP  FullHD" tvg-logo="" group-title="Geral" tvg-shift="+1",TV CINE TOP  FullHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/267?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV GLOBO" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV GLOBO
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV GLOBO" tvg-logo="" group-title="Geral" tvg-shift="+1",TV GLOBO
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/274?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV Globo NOW" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV Globo NOW
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV Globo NOW" tvg-logo="" group-title="Geral" tvg-shift="+1",TV Globo NOW
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46668?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="Undefined" tvg-shift="+1",TV Mana 1
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV Mana 1" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="Geral" tvg-shift="+1",TV Mana 1
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV RECORD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV RECORD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV RECORD" tvg-logo="" group-title="Geral" tvg-shift="+1",TV RECORD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2225?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV5 Monde" tvg-logo="" group-title="Undefined" tvg-shift="+1",TV5 Monde
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TV5 Monde" tvg-logo="" group-title="Geral" tvg-shift="+1",TV5 Monde
 http://revteam2.offshorerev.cc:80/_lcRKGu/vXOcC5musQ/106518?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE ACTION H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE ACTION H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE ACTION H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE ACTION H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207343?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE ACTION HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE ACTION HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE ACTION HD" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE ACTION HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2237?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EDITION" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE EDITION
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EDITION" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE EDITION
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/194450?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EDITION H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE EDITION H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EDITION H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE EDITION H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207334?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EDITION HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE EDITION HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EDITION HD" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE EDITION HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2235?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EMOTION H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE EMOTION H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EMOTION H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE EMOTION H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207342?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EMOTION HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE EMOTION HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE EMOTION HD" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE EMOTION HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2236?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE TOP" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE TOP
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE TOP" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE TOP
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/194449?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE TOP  H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE TOP  H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE TOP  H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE TOP  H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207333?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE TOP HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVCINE TOP HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVCINE TOP HD" tvg-logo="" group-title="Geral" tvg-shift="+1",TVCINE TOP HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2234?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVI
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI" tvg-logo="" group-title="Geral" tvg-shift="+1",TVI
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/266?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVI
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI" tvg-logo="" group-title="Geral" tvg-shift="+1",TVI
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2220?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI 24" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVI 24
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI 24" tvg-logo="" group-title="Geral" tvg-shift="+1",TVI 24
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/265?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI FICCAO" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVI FICCAO
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI FICCAO" tvg-logo="" group-title="Geral" tvg-shift="+1",TVI FICCAO
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52207?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI FICÇAO" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVI FICÇAO
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI FICÇAO" tvg-logo="" group-title="Geral" tvg-shift="+1",TVI FICÇAO
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136631?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVI H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",TVI H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/209530?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI REALITY - BIG BROTHER" tvg-logo="" group-title="Undefined" tvg-shift="+1",TVI REALITY - BIG BROTHER
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TVI REALITY - BIG BROTHER" tvg-logo="" group-title="Geral" tvg-shift="+1",TVI REALITY - BIG BROTHER
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/361077?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA" tvg-logo="" group-title="Undefined" tvg-shift="+1",ZAP VIVA
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA" tvg-logo="" group-title="Geral" tvg-shift="+1",ZAP VIVA
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/252147?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA FHD" tvg-logo="" group-title="Undefined" tvg-shift="+1",ZAP VIVA FHD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA FHD" tvg-logo="" group-title="Geral" tvg-shift="+1",ZAP VIVA FHD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52045?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA H.265/HEVC" tvg-logo="" group-title="Undefined" tvg-shift="+1",ZAP VIVA H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA H.265/HEVC" tvg-logo="" group-title="Geral" tvg-shift="+1",ZAP VIVA H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198367?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA HD" tvg-logo="" group-title="Undefined" tvg-shift="+1",ZAP VIVA HD
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ZAP VIVA HD" tvg-logo="" group-title="Geral" tvg-shift="+1",ZAP VIVA HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/252146?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="canal11" tvg-logo="" group-title="Undefined" tvg-shift="+1",canal11
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="canal11" tvg-logo="" group-title="Geral" tvg-shift="+1",canal11
 http://62.28.71.186:45678/http/192.168.150.50:7050/canal11?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="eleven1" tvg-logo="" group-title="Undefined" tvg-shift="+1",eleven1
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="eleven1" tvg-logo="" group-title="Geral" tvg-shift="+1",eleven1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="eleven3" tvg-logo="" group-title="Undefined" tvg-shift="+1",eleven3
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="eleven3" tvg-logo="" group-title="Geral" tvg-shift="+1",eleven3
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="eleven6" tvg-logo="" group-title="Undefined" tvg-shift="+1",eleven6
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="eleven6" tvg-logo="" group-title="Geral" tvg-shift="+1",eleven6
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="Canal 11 (720p)" tvg-logo="https://cdn.one.accedo.tv/files/5da5efcea0e845000ed0e5d4?sessionKey=01FNEJ1BS1DAS4AGH38M9E3DZ01A65B14752.png" group-title="Sports" tvg-shift="+1",Canal 11 (720p)
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ElevenSports4(src02).pt(m3u4u)" tvg-name="ELEVEN SPORT 4 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",ELEVEN SPORT 4 HD
+#EXTINF:-1 tvg-id="ElevenSports4(src02).pt(m3u4u)" tvg-name="ELEVEN SPORT 4 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",ELEVEN SPORT 4 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/159766?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ElevenSports1(src02).pt(m3u4u)" tvg-name="ELEVEN SPORTS 1 SD" tvg-logo="" group-title="Sport" tvg-shift="+1",ELEVEN SPORTS 1 SD
+#EXTINF:-1 tvg-id="ElevenSports1(src02).pt(m3u4u)" tvg-name="ELEVEN SPORTS 1 SD" tvg-logo="" group-title="Sports" tvg-shift="+1",ELEVEN SPORTS 1 SD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/164977?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ElevenSports2(src01).pt(m3u4u)" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",ELEVEN SPORTS 2 HD
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt(m3u4u)" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",ELEVEN SPORTS 2 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/158902?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ElevenSports2(src01).pt(m3u4u)" tvg-name="ELEVEN SPORTS 2 SD" tvg-logo="" group-title="Sport" tvg-shift="+1",ELEVEN SPORTS 2 SD
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt(m3u4u)" tvg-name="ELEVEN SPORTS 2 SD" tvg-logo="" group-title="Sports" tvg-shift="+1",ELEVEN SPORTS 2 SD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/164978?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ElevenSports5(src01).pt(m3u4u)" tvg-name="ELEVENSPORT 5 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",ELEVENSPORT 5 HD
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt(m3u4u)" tvg-name="ELEVENSPORT 5 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",ELEVENSPORT 5 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/159767?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="ElevenSports6(src02).pt(m3u4u)" tvg-name="ELEVENSPORT 6 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",ELEVENSPORT 6 HD
+#EXTINF:-1 tvg-id="ElevenSports6(src02).pt(m3u4u)" tvg-name="ELEVENSPORT 6 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",ELEVENSPORT 6 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/159768?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kombat Sports" tvg-logo="" group-title="Sport" tvg-shift="+1",Kombat Sports
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kombat Sports" tvg-logo="" group-title="Sports" tvg-shift="+1",Kombat Sports
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49978?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="NBA(src01).pt(m3u4u)" tvg-name="NBA HD" tvg-logo="" group-title="Sport" tvg-shift="+1",NBA HD
+#EXTINF:-1 tvg-id="NBA(src01).pt(m3u4u)" tvg-name="NBA HD" tvg-logo="" group-title="Sports" tvg-shift="+1",NBA HD
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49979?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV1(src01).pt(m3u4u)" tvg-name="SPORT TV 1" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 1
+#EXTINF:-1 tvg-id="SportTV1(src01).pt(m3u4u)" tvg-name="SPORT TV 1" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 1
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/285911?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPORT TV 1 H.265/HEVC" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 1 H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPORT TV 1 H.265/HEVC" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 1 H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1455?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV2(src02).pt(m3u4u)" tvg-name="SPORT TV 2" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 2
+#EXTINF:-1 tvg-id="SportTV2(src02).pt(m3u4u)" tvg-name="SPORT TV 2" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 2
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161957?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPORT TV 2 H.265/HEVC" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 2 H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPORT TV 2 H.265/HEVC" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 2 H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1456?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV2(src02).pt(m3u4u)" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 2 HD
+#EXTINF:-1 tvg-id="SportTV2(src02).pt(m3u4u)" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 2 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205667?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV3(src01).pt(m3u4u)" tvg-name="SPORT TV 3" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 3
+#EXTINF:-1 tvg-id="SportTV3(src01).pt(m3u4u)" tvg-name="SPORT TV 3" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 3
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161966?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV3(src01).pt(m3u4u)" tvg-name="SPORT TV 3 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 3 HD
+#EXTINF:-1 tvg-id="SportTV3(src01).pt(m3u4u)" tvg-name="SPORT TV 3 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 3 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205668?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV4(src02).pt(m3u4u)" tvg-name="SPORT TV 4" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 4
+#EXTINF:-1 tvg-id="SportTV4(src02).pt(m3u4u)" tvg-name="SPORT TV 4" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 4
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161967?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV4(src02).pt(m3u4u)" tvg-name="SPORT TV 4 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 4 HD
+#EXTINF:-1 tvg-id="SportTV4(src02).pt(m3u4u)" tvg-name="SPORT TV 4 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 4 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1458?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV5(src01).pt(m3u4u)" tvg-name="SPORT TV 5 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 5 HD
+#EXTINF:-1 tvg-id="SportTV5(src01).pt(m3u4u)" tvg-name="SPORT TV 5 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 5 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1459?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTV6(src01).pt(m3u4u)" tvg-name="SPORT TV 6 HD" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV 6 HD
+#EXTINF:-1 tvg-id="SportTV6(src01).pt(m3u4u)" tvg-name="SPORT TV 6 HD" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV 6 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367634?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTVNBA(src02).pt(m3u4u)" tvg-name="SPORT TV NBA" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV NBA
+#EXTINF:-1 tvg-id="SportTVNBA(src02).pt(m3u4u)" tvg-name="SPORT TV NBA" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV NBA
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/178146?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPORT TV NBA H.265/HEVC" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV NBA H.265/HEVC
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SPORT TV NBA H.265/HEVC" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV NBA H.265/HEVC
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/183821?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="SportTVNBA(src02).pt(m3u4u)" tvg-name="SPORT TV NBA HD" tvg-logo="" group-title="Sport" tvg-shift="+1",SPORT TV NBA HD
+#EXTINF:-1 tvg-id="SportTVNBA(src02).pt(m3u4u)" tvg-name="SPORT TV NBA HD" tvg-logo="" group-title="Sports" tvg-shift="+1",SPORT TV NBA HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/252145?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="sporttvmais" tvg-logo="" group-title="Sport" tvg-shift="+1",sporttvmais
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="sporttvmais" tvg-logo="" group-title="Sports" tvg-shift="+1",sporttvmais
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids" tvg-shift="+1",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt(m3u4u)" tvg-name="Kuriakos TV (Backup)" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious;Undefined" tvg-shift="+1",Kuriakos TV (Backup)
+#EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt(m3u4u)" tvg-name="Kuriakos TV (Backup)" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious" tvg-shift="+1",Kuriakos TV (Backup)
 http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt(m3u4u)" tvg-name="Kuriakos TV" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious;Undefined" tvg-shift="+1",Kuriakos TV
+#EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt(m3u4u)" tvg-name="Kuriakos TV" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious" tvg-shift="+1",Kuriakos TV
 http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious;Undefined" tvg-shift="+1",Sobrenatural TV
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sobrenatural TV" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious" tvg-shift="+1",Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="KURIAKOSTV(src01).pt(m3u4u)" tvg-name="Kuriakos TV (1080p)" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious" tvg-shift="+1",Kuriakos TV (1080p)
 http://195.22.11.11:1935/ktv/ktv1/master.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="RTP1(src02).pt(m3u4u)" tvg-name="RTP1 (480p)" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General" tvg-shift="+1",RTP1 (480p)
+#EXTINF:-1 tvg-id="RTP1(src02).pt(m3u4u)" tvg-name="RTP1 (480p)" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="Geral" tvg-shift="+1",RTP1 (480p)
 http://162.212.178.69:41042/bysid/608?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="TVI(src01).pt(m3u4u)" tvg-name="TVI (480p)" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="General" tvg-shift="+1",TVI (480p)
+#EXTINF:-1 tvg-id="TVI(src01).pt(m3u4u)" tvg-name="TVI (480p)" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi.png" group-title="Geral" tvg-shift="+1",TVI (480p)
 https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STV Noticias (240p) [Not 24/7]" tvg-logo="" group-title="News" tvg-shift="+1",STV Noticias (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="STV Noticias (240p) [Not 24/7]" tvg-logo="" group-title="Geral" tvg-shift="+1",STV Noticias (240p) [Not 24/7]
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8?checkedby:iptvcat.com
