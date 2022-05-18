@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn64qz8amm35rnd1w.3mu"
+#EXTM3U x-tvg-url="http://m3u4u.com/epg/j67zn64qz8amm35rnd1w.3mu"
 #EXTINF:-1 tvg-chno="101" tvg-id="RTP1(src02).pt(m3u4u)" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png" group-title="Portugal" tvg-shift="+1",RTP 1
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1512?checkedby:iptvcat.com
 #EXTINF:-1 tvg-chno="102" tvg-id="RTP2(src02).pt(m3u4u)" tvg-name="RTP 2" tvg-logo="" group-title="Portugal" tvg-shift="+1",RTP 2
