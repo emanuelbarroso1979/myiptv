@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE TOP  H.265/HEVC
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207333?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE TOP HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2234?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION H.265/HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207343?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2237?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EDITION
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/194450?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EDITION H.265/HEVC
@@ -13,21 +13,7 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2235?checkedby:iptvcat.com
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207342?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE EMOTION HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2236?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION H.265/HEVC
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207343?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE ACTION HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2237?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Cine Action FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7562?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Cine Edition FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7558?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Cine Emotion FHD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7560?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Cine Top SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7555?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Cine Action SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7561?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Cine Emotion SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7559?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TV Cine Edition SD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7557?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE TOP  H.265/HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/207333?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCINE TOP HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2234?checkedby:iptvcat.com
