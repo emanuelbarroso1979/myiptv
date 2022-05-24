@@ -1,9 +1,151 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
-http://comet.watch:8880/play/BGsTumtQz_5ppESq8C7C6yGhWs5Bex42iB8B4RLIa9hjFPFJR8GQFehAv0Acv3K5S1GuQIu5ZBa0qSsXwqxvDw/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
-http://iptv.csserv.co:8000/live/clientr725/631739/1054.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729298?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24
-http://mains.services:2086/Sammy/Sammy/92066?checkedby:iptvcat.com
+#EXTINF:-1,PT: CANAL 11 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52208
+#EXTINF:-1,PT: TVI FICCAO
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52207
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52187
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52186
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52045
+#EXTINF:-1,PT: Travel Channel
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49985
+#EXTINF:-1,PT: TVCseries FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46670
+#EXTINF:-1,PT: TVI 24
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/265
+#EXTINF:-1,PT: TVI
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/266
+#EXTINF:-1,PT: TV CINE TOP  FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/267
+#EXTINF:-1,PT: TV CINE Emotion  FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/268
+#EXTINF:-1,PT: TV CINE EDITION FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/269
+#EXTINF:-1,PT: TV CINE ACTION FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/270
+#EXTINF:-1,PT: TV RECORD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/273
+#EXTINF:-1,PT: TV GLOBO
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/274
+#EXTINF:-1,PT: TV Globo NOW
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46668
+#EXTINF:-1,PT: TOROS TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46662
+#EXTINF:-1,PT: TVI REALITY
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/731
+#EXTINF:-1,PT: TLC
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2091
+#EXTINF:-1,PT: SIC Kids FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49984
+#EXTINF:-1,PT: SIC Caras HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49983
+#EXTINF:-1,PT: Sic
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1953
+#EXTINF:-1,PT: SIC NOTICIAS
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/275
+#EXTINF:-1,PT: SIC MULHER
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1520
+#EXTINF:-1,PT: SIC RADICAL FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/733
+#EXTINF:-1,PT: SYFY FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/279
+#EXTINF:-1,PT: PFC
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46642
+#EXTINF:-1,PT: MOTORVISION
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2073
+#EXTINF:-1,PT: Panda Biggs
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49981
+#EXTINF:-1,PT: PORTO CANAL
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1515
+#EXTINF:-1,PT: Panda
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49980
+#EXTINF:-1,PT: RTP ÁFRICA
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1519
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1857
+#EXTINF:-1,PT: RTP AÇORES
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2062
+#EXTINF:-1,PT: Real Madrid TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49982
+#EXTINF:-1,PT: RTP 3 FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1514
+#EXTINF:-1,PT: RTP 2
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1513
+#EXTINF:-1,PT: RTP 1
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1512
+#EXTINF:-1,PT: NICKELODEON
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2099
+#EXTINF:-1,PT: NBA HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49979
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2089
+#EXTINF:-1,PT: MOTORVISION TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2081
+#EXTINF:-1,PT: Nat Geo Wild
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/738
+#EXTINF:-1,PT: Mtv Portuga
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2396
+#EXTINF:-1,PT: Kombat Sports
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49978
+#EXTINF:-1,PT: JimJam
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49977
+#EXTINF:-1,PT: MOV HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/272
+#EXTINF:-1,PT: ODISSEIA
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1859
+#EXTINF:-1,PT: Fuel TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49975
+#EXTINF:-1,PT: Food Network
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49974
+#EXTINF:-1,PT: Fox Comedy
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1517
+#EXTINF:-1,PT: FOX LIFE
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46631
+#EXTINF:-1,PT: FOX CRIME
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/879
+#EXTINF:-1,PT: FOX MOVIES HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46632
+#EXTINF:-1,PT: FOX TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/740
+#EXTINF:-1,PT: E! Entertainment
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46627
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/742
+#EXTINF:-1,PT: Discovery HD Showcase
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2090
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/743
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46625
+#EXTINF:-1,PT: CBS Reality
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49970
+#EXTINF:-1,PT: CINEMUNDO
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46621
+#EXTINF:-1,PT: CANAL HISTORIA
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46617
+#EXTINF:-1,PT: Casa e Cozinha FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49969
+#EXTINF:-1,PT: CANAL Q
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2066
+#EXTINF:-1,PT: CAÇA & PESCA
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2082
+#EXTINF:-1,PT: CM TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1619
+#EXTINF:-1,PT: Benfica TV FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49967
+#EXTINF:-1,PT: BABY TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2398
+#EXTINF:-1,PT: AXN WHITE
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/289
+#EXTINF:-1,PT: AXN Black
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49966
+#EXTINF:-1,PT: AXN
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/288
+#EXTINF:-1,PT: AMC
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2088
+#EXTINF:-1,PT: A BOLA TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2080
+#EXTINF:-1,PT: 24 Kitchen FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49965
