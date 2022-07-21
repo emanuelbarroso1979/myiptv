@@ -1,151 +1,153 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn1rd43hjj2vvy721"
-#EXTINF:-1 tvg-chno="1" tvg-id="RTP1(src02).pt" tvg-name="RTP 1 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_hd_85x70.jpg" group-title="Portugal",RTP 1 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/128?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="2" tvg-id="RTP2(src02).pt" tvg-name="RTP 2 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp2hd_85x70.jpg" group-title="Portugal",RTP 2 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/558?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="3" tvg-id="SIC(src01).pt" tvg-name="SIC HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sichd-85x70.jpg" group-title="Portugal",SIC HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/173?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="4" tvg-id="TVI(src01).pt" tvg-name="TVI HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvihd_85x70.jpg" group-title="Portugal",TVI HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/174?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="5" tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/porto_canal_hd_85x70.jpg" group-title="Portugal",Porto Canal HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/533?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="6" tvg-id="SICNoticias(src02).pt" tvg-name="SIC NOTICIAS HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sicnoticiashd-85x70.jpg" group-title="Portugal",SIC NOTICIAS HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/530?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="7" tvg-id="RTP3(src02).pt" tvg-name="RTP 3 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp3hd_85x70.jpg" group-title="Portugal",RTP 3 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/647?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="8" tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="Portugal",CNN Portugal HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/601?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="9" tvg-id="CMTV(src02).pt" tvg-name="CMTV HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/cmtv_85x70.jpg" group-title="Portugal",CMTV HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/175?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="10" tvg-id="(no tvg-id)" tvg-name="RTP Açores" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/RTP_Acores_85x70.jpg" group-title="Portugal",RTP Açores
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/114?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="11" tvg-id="RTPMadeira(src02).pt" tvg-name="RTP Madeira" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtpmadeira_85x70.jpg" group-title="Portugal",RTP Madeira
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/119?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="12" tvg-id="ARTV(src02).pt" tvg-name="ARTV" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/artv_85x70.jpg" group-title="Portugal",ARTV
+#EXTM3U url-tvg="http://m3u4u.com/epg/j67zn64qz8amm35rnd1w"
+#EXTINF:-1 tvg-chno="1" tvg-id="RTP1(src02).pt(m3u4u)" tvg-name="RTP 1 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",RTP 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162611?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="2" tvg-id="RTP2(src02).pt(m3u4u)" tvg-name="RTP 2 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp2hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",RTP 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205664?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="3" tvg-id="SIC(src01).pt(m3u4u)" tvg-name="SIC HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sichd-85x70.jpg" group-title="Portugal" tvg-shift="+1",SIC HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169304?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="4" tvg-id="TVI(src01).pt(m3u4u)" tvg-name="TVI HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvihd_85x70.jpg" group-title="Portugal" tvg-shift="+1",TVI HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169303?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="5" tvg-id="PortoCanal(src01).pt(m3u4u)" tvg-name="Porto Canal HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/porto_canal_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Porto Canal HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2210?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="6" tvg-id="SICNoticias(src02).pt(m3u4u)" tvg-name="SIC NOTICIAS HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sicnoticiashd-85x70.jpg" group-title="Portugal" tvg-shift="+1",SIC NOTICIAS HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2219?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="7" tvg-id="RTP3(src02).pt(m3u4u)" tvg-name="RTP 3 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp3hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",RTP 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136263?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="8" tvg-id="CNNPortugal(src01).pt(m3u4u)" tvg-name="CNN Portugal HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/tvi24hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",CNN Portugal HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2221?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="9" tvg-id="CMTV(src02).pt(m3u4u)" tvg-name="CMTV HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/cmtv_85x70.jpg" group-title="Portugal" tvg-shift="+1",CMTV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="10" tvg-id="(no tvg-id)(m3u4u)" tvg-name="RTP Açores" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/RTP_Acores_85x70.jpg" group-title="Portugal" tvg-shift="+1",RTP Açores
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2213?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="11" tvg-id="RTPMadeira(src02).pt(m3u4u)" tvg-name="RTP Madeira" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtpmadeira_85x70.jpg" group-title="Portugal" tvg-shift="+1",RTP Madeira
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2215?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="12" tvg-id="ARTV(src02).pt(m3u4u)" tvg-name="ARTV" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/artv_85x70.jpg" group-title="Portugal" tvg-shift="+1",ARTV
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/652?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="13" tvg-id="RECORDNEWS(src01).pt" tvg-name="Record News" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/record_news_85x70.jpg" group-title="Portugal",Record News
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/653?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="14" tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/bloomberg_85x70.jpg" group-title="Portugal",Bloomberg
+#EXTINF:-1 tvg-chno="13" tvg-id="RECORDNEWS(src01).pt(m3u4u)" tvg-name="Afro Music Channel" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/record_news_85x70.jpg" group-title="Portugal" tvg-shift="+1",Afro Music Channel
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136674?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="14" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bloomberg" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/bloomberg_85x70.jpg" group-title="Portugal" tvg-shift="+1",Bloomberg
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/242?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="15" tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/cnbc_85x70.jpg" group-title="Portugal",CNBC
+#EXTINF:-1 tvg-chno="15" tvg-id="(no tvg-id)(m3u4u)" tvg-name="CNBC" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/cnbc_85x70.jpg" group-title="Portugal" tvg-shift="+1",CNBC
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/241?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="16" tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/skynews_85x70.jpg" group-title="Portugal",Sky News
+#EXTINF:-1 tvg-chno="16" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Sky News" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/skynews_85x70.jpg" group-title="Portugal" tvg-shift="+1",Sky News
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/63?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="17" tvg-id="(no tvg-id)" tvg-name="France 24" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/france_24ingles_85x70.jpg" group-title="Portugal",France 24
+#EXTINF:-1 tvg-chno="17" tvg-id="(no tvg-id)(m3u4u)" tvg-name="France 24" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/france_24ingles_85x70.jpg" group-title="Portugal" tvg-shift="+1",France 24
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/120?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="18" tvg-id="TVE24h(src01).pt" tvg-name="TVE 24h" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/tve_24h_85x70.jpg" group-title="Portugal",TVE 24h
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/58?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="19" tvg-id="Canal11(src01).pt" tvg-name="Canal 11 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/11_85x70.jpg" group-title="Portugal",Canal 11 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/527?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="20" tvg-id="ABolaTV(src01).pt" tvg-name="A Bola TV HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" group-title="Portugal",A Bola TV HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/644?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="30" tvg-id="SportingTV(src02).pt" tvg-name="Sporting TV HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sporting-tv-hd.png" group-title="Portugal",Sporting TV HD
+#EXTINF:-1 tvg-chno="18" tvg-id="TVE24h(src01).pt(m3u4u)" tvg-name="Canal 11 International HD" tvg-logo="https://cdn.one.accedo.tv/files/5da5efcea0e845000ed0e5d4?sessionKey=01FNEJ1BS1DAS4AGH38M9E3DZ01A65B14752.png" group-title="Portugal" tvg-shift="+1",Canal 11 International HD
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="19" tvg-id="Canal11(src01).pt(m3u4u)" tvg-name="Canal 11 HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/11_85x70.jpg" group-title="Portugal" tvg-shift="+1",Canal 11 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/203037?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="28" tvg-id="ABolaTV(src01).pt(m3u4u)" tvg-name="A Bola TV HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/a-bola-tv.png" group-title="Portugal" tvg-shift="+1",A Bola TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136661?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="29" tvg-id="SportingTV(src02).pt(m3u4u)" tvg-name="Sporting TV HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sporting-tv-hd.png" group-title="Portugal" tvg-shift="+1",Sporting TV HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/645?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="22" tvg-id="SportTVPlus(src02).pt" tvg-name="Sport TV + HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv+hd.png" group-title="Portugal",Sport TV + HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/531?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="23" tvg-id="SportTV1(src01).pt" tvg-name="Sport TV 1 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv1-hd.png" group-title="Portugal",Sport TV 1 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/108?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="24" tvg-id="SportTV2(src02).pt" tvg-name="Sport TV 2 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv2-hd.png" group-title="Portugal",Sport TV 2 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/102?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="25" tvg-id="SportTV3(src01).pt" tvg-name="Sport TV 3 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv3-hd.png" group-title="Portugal",Sport TV 3 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/132?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="26" tvg-id="SportTV4(src02).pt" tvg-name="Sport TV 4 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv4-hd.png" group-title="Portugal",Sport TV 4 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/86?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="27" tvg-id="SportTV5(src01).pt" tvg-name="Sport TV 5 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv5-hd.png" group-title="Portugal",Sport TV 5 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/78?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="28" tvg-id="SportTV6(src01).pt" tvg-name="Sport TV 6 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6-hd.png" group-title="Portugal",Sport TV 6 HD
+#EXTINF:-1 tvg-chno="20" tvg-id="SportTVPlus(src02).pt(m3u4u)" tvg-name="Sport TV + HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv+hd.png" group-title="Portugal" tvg-shift="+1",Sport TV + HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161969?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="21" tvg-id="SportTV1(src01).pt(m3u4u)" tvg-name="Sport TV 1 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv1-hd.png" group-title="Portugal" tvg-shift="+1",Sport TV 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302761?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="22" tvg-id="SportTV2(src02).pt(m3u4u)" tvg-name="Sport TV 2 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv2-hd.png" group-title="Portugal" tvg-shift="+1",Sport TV 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205667?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="23" tvg-id="SportTV3(src01).pt(m3u4u)" tvg-name="Sport TV 3 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv3-hd.png" group-title="Portugal" tvg-shift="+1",Sport TV 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205668?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src02).pt(m3u4u)" tvg-name="Sport TV 4 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv4-hd.png" group-title="Portugal" tvg-shift="+1",Sport TV 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1458?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt(m3u4u)" tvg-name="Sport TV 5 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv5-hd.png" group-title="Portugal" tvg-shift="+1",Sport TV 5 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1459?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="26" tvg-id="SportTV6(src01).pt(m3u4u)" tvg-name="Sport TV 6 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6-hd.png" group-title="Portugal" tvg-shift="+1",Sport TV 6 HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/738?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="29" tvg-id="SportTVNBA(src02).pt" tvg-name="Sport TV NBA" tvg-logo="https://www.meo.pt/PublishingImages/canais/nba-tv.png" group-title="Portugal",Sport TV NBA
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/77?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="21" tvg-id="BTV1(src02).pt" tvg-name="BTV 1 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/btv-hd.png" group-title="Portugal",BTV 1 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/103?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src02).pt" tvg-name="Eleven Sports 1" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-1.png" group-title="Portugal",Eleven Sports 1
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/545?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="Eleven Sports 2" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-2.png" group-title="Portugal",Eleven Sports 2
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/89?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="Eleven Sports 3" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-3.png" group-title="Portugal",Eleven Sports 3
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/150?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src02).pt" tvg-name="Eleven Sports 4" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-4.png" group-title="Portugal",Eleven Sports 4
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/66?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="Eleven Sports 5" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-5.png" group-title="Portugal",Eleven Sports 5
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/139?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src02).pt" tvg-name="Eleven Sports 6" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-6.png" group-title="Portugal",Eleven Sports 6
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/96?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="37" tvg-id="EuroSport1(src01).pt" tvg-name="Eurosport 1 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/eurosport-hd.png" group-title="Portugal",Eurosport 1 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/555?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="38" tvg-id="EuroSport2(src01).pt" tvg-name="Eurosport 2 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/eurosport-2-hd.png" group-title="Portugal",Eurosport 2 HD
+#EXTINF:-1 tvg-chno="27" tvg-id="SportTVNBA(src02).pt(m3u4u)" tvg-name="Sport TV NBA" tvg-logo="https://www.meo.pt/PublishingImages/canais/nba-tv.png" group-title="Portugal" tvg-shift="+1",Sport TV NBA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/252145?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src02).pt(m3u4u)" tvg-name="BTV 1 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/btv-hd.png" group-title="Portugal" tvg-shift="+1",BTV 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205659?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src02).pt(m3u4u)" tvg-name="Eleven Sports 1" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-1.png" group-title="Portugal" tvg-shift="+1",Eleven Sports 1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158069?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt(m3u4u)" tvg-name="Eleven Sports 2" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-2.png" group-title="Portugal" tvg-shift="+1",Eleven Sports 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158902?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt(m3u4u)" tvg-name="Eleven Sports 3" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-3.png" group-title="Portugal" tvg-shift="+1",Eleven Sports 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159765?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src02).pt(m3u4u)" tvg-name="Eleven Sports 4" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-4.png" group-title="Portugal" tvg-shift="+1",Eleven Sports 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164980?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt(m3u4u)" tvg-name="Eleven Sports 5" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-5.png" group-title="Portugal" tvg-shift="+1",Eleven Sports 5
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159767?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src02).pt(m3u4u)" tvg-name="Eleven Sports 6" tvg-logo="https://www.meo.pt/PublishingImages/canais/eleven-6.png" group-title="Portugal" tvg-shift="+1",Eleven Sports 6
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159768?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="3637" tvg-id="EuroSport1(src01).pt(m3u4u)" tvg-name="Eurosport 1 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/eurosport-hd.png" group-title="Portugal" tvg-shift="+1",Eurosport 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159768?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="38" tvg-id="EuroSport2(src01).pt(m3u4u)" tvg-name="Eurosport 2 HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/eurosport-2-hd.png" group-title="Portugal" tvg-shift="+1",Eurosport 2 HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/161?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="39" tvg-id="TVCineTOP(src01).pt" tvg-name="TVCINE TOP  HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-top.png" group-title="Portugal",TVCINE TOP  HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7555?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="40" tvg-id="TVCineEDITION(src01).pt" tvg-name="TVCINE EDITION HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-edition.png" group-title="Portugal",TVCINE EDITION HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7557?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="41" tvg-id="TVCineEMOTION(src02).pt" tvg-name="TVCINE EMOTION HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-emotion.png" group-title="Portugal",TVCINE EMOTION HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7559?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="42" tvg-id="TVCineACTION(src02).pt" tvg-name="TVCINE ACTION HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-action.png" group-title="Portugal",TVCINE ACTION HD
-http://tvgp.xyz:8080/iptvtree49fH/7EQbZRVaqj/7561?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="44" tvg-id="NOSStudios(src02).pt" tvg-name="NOS Studios HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nosstudioshd_85x70.jpg" group-title="Portugal",NOS Studios HD
+#EXTINF:-1 tvg-chno="39" tvg-id="TVCineTOP(src01).pt(m3u4u)" tvg-name="TVCINE TOP  HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-top.png" group-title="Portugal" tvg-shift="+1",TVCINE TOP  HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2234?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="40" tvg-id="TVCineEDITION(src01).pt(m3u4u)" tvg-name="TVCINE EDITION HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-edition.png" group-title="Portugal" tvg-shift="+1",TVCINE EDITION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2235?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="41" tvg-id="TVCineEMOTION(src02).pt(m3u4u)" tvg-name="TVCINE EMOTION HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-emotion.png" group-title="Portugal" tvg-shift="+1",TVCINE EMOTION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2236?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="42" tvg-id="TVCineACTION(src02).pt(m3u4u)" tvg-name="TVCINE ACTION HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-action.png" group-title="Portugal" tvg-shift="+1",TVCINE ACTION HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2237?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="43" tvg-id="NOSStudios(src02).pt(m3u4u)" tvg-name="NOS Studios HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nosstudioshd_85x70.jpg" group-title="Portugal" tvg-shift="+1",NOS Studios HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/529?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="43" tvg-id="Cinemundo(src02).pt" tvg-name="Cinemundo HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/cinemundo-hd.png" group-title="Portugal",Cinemundo HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/561?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="45" tvg-id="Hollywood(src02).pt" tvg-name="Hollywood HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/canal_hollywood_hd_85x70.jpg" group-title="Portugal",Hollywood HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/182?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="46" tvg-id="FOXMovies(src02).pt" tvg-name="FOX Movies HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/fox_movies_hd_85x70.jpg" group-title="Portugal",FOX Movies HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/603?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="47" tvg-id="AMC(src01).pt" tvg-name="AMC HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/amchd_85x70.jpg" group-title="Portugal",AMC HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/543?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="48" tvg-id="AXNMovies(src02).pt" tvg-name="AXN Movies HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/logos%2085%20x%2070/axnmovieshd_85x70.jpg" group-title="Portugal",AXN Movies HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/553?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="49" tvg-id="FOX(src01).pt" tvg-name="FOX HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/fox_hd_85x70.jpg" group-title="Portugal",FOX HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/552?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="50" tvg-id="FOXLife(src02).pt" tvg-name="FOX Life HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/foxlife_hd_85x70.jpg" group-title="Portugal",FOX Life HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/542?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="51" tvg-id="FOXCrime(src02).pt" tvg-name="FOX Crime HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/fox_crime_hd_85x70.jpg" group-title="Portugal",FOX Crime HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/544?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="52" tvg-id="FOXComedy(src01).pt" tvg-name="FOX Comedy" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/foxcomedy_hd_85x70.jpg" group-title="Portugal",FOX Comedy
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/549?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="53" tvg-id="AXN(src02).pt" tvg-name="AXN HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/axn_hd_85x70.jpg" group-title="Portugal",AXN HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/546?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="54" tvg-id="AXNWhite(src01).pt" tvg-name="AXN White HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/axn_white_85x70.jpg" group-title="Portugal",AXN White HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/522?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="55" tvg-id="Syfy(src02).pt" tvg-name="Syfy HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/syfy_85x70.jpg" group-title="Portugal",Syfy HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/643?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="56" tvg-id="DisneyChannel(src01).pt" tvg-name="Disney Channel" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/disneychannelhd_85x70.jpg" group-title="Portugal",Disney Channel
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/540?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="57" tvg-id="CartoonNetwork(src01).pt" tvg-name="Cartoon Networ" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/cn_85x70.jpg" group-title="Portugal",Cartoon Networ
+#EXTINF:-1 tvg-chno="44" tvg-id="Cinemundo(src02).pt(m3u4u)" tvg-name="Cinemundo HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/cinemundo-hd.png" group-title="Portugal" tvg-shift="+1",Cinemundo HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132905?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="45" tvg-id="Hollywood(src02).pt(m3u4u)" tvg-name="Hollywood HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/canal_hollywood_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Hollywood HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/221898?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="46" tvg-id="FOXMovies(src02).pt(m3u4u)" tvg-name="FOX Movies HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/fox_movies_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",FOX Movies HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/374641?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="47" tvg-id="AMC(src01).pt(m3u4u)" tvg-name="AMC HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/amchd_85x70.jpg" group-title="Portugal" tvg-shift="+1",AMC HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209534?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="48" tvg-id="AXNMovies(src02).pt(m3u4u)" tvg-name="AXN Movies HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/logos%2085%20x%2070/axnmovieshd_85x70.jpg" group-title="Portugal" tvg-shift="+1",AXN Movies HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205657?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="49" tvg-id="FOX(src01).pt(m3u4u)" tvg-name="FOX HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/fox_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",FOX HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205661?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="50" tvg-id="FOXLife(src02).pt(m3u4u)" tvg-name="FOX Life HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/foxlife_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",FOX Life HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/233866?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="51" tvg-id="FOXCrime(src02).pt(m3u4u)" tvg-name="FOX Crime HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/fox_crime_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",FOX Crime HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209536?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="52" tvg-id="FOXComedy(src01).pt(m3u4u)" tvg-name="FOX Comedy" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/foxcomedy_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",FOX Comedy
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2208?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="53" tvg-id="AXN(src02).pt(m3u4u)" tvg-name="AXN HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/axn_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",AXN HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205656?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="54" tvg-id="AXNWhite(src01).pt(m3u4u)" tvg-name="AXN White HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/axn_white_85x70.jpg" group-title="Portugal" tvg-shift="+1",AXN White HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205658?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="55" tvg-id="Syfy(src02).pt(m3u4u)" tvg-name="Syfy HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/syfy_85x70.jpg" group-title="Portugal" tvg-shift="+1",Syfy HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/169312?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="56" tvg-id="DisneyChannel(src01).pt(m3u4u)" tvg-name="Disney Channel" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/disneychannelhd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Disney Channel
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2223?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="57" tvg-id="CartoonNetwork(src01).pt(m3u4u)" tvg-name="Cartoon Networ" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/cn_85x70.jpg" group-title="Portugal" tvg-shift="+1",Cartoon Networ
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/551?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="58" tvg-id="(no tvg-id)" tvg-name="Biggs" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/panda_biggs_85x70.jpg" group-title="Portugal",Biggs
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/559?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="59" tvg-id="SICK(src01).pt" tvg-name="SIC K HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sickhd_85x70.jpg" group-title="Portugal",SIC K HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/650?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="60" tvg-id="Nickelodeon(src01).pt" tvg-name="Nickelodeon" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nickelodeon_85x70.jpg" group-title="Portugal",Nickelodeon
+#EXTINF:-1 tvg-chno="58" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Biggs" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/panda_biggs_85x70.jpg" group-title="Portugal" tvg-shift="+1",Biggs
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/180946?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="59" tvg-id="SICK(src01).pt(m3u4u)" tvg-name="SIC K HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/sickhd_85x70.jpg" group-title="Portugal" tvg-shift="+1",SIC K HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2217?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="60" tvg-id="Nickelodeon(src01).pt(m3u4u)" tvg-name="Nickelodeon" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nickelodeon_85x70.jpg" group-title="Portugal" tvg-shift="+1",Nickelodeon
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/525?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="61" tvg-id="DisneyJunior(src01).pt" tvg-name="Disney Junior" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/disneyjuniorhd_85x70.jpg" group-title="Portugal",Disney Junior
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/535?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="62" tvg-id="CanalPanda(src02).pt" tvg-name="Canal Panda" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/pandahd_85x70.jpg" group-title="Portugal",Canal Panda
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/536?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="63" tvg-id="JimJam(src01).pt" tvg-name="Jim Jam" tvg-logo="https://www.meo.pt/PublishingImages/canais/jimjam.png" group-title="Portugal",Jim Jam
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/524?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="64" tvg-id="BabyTV(src01).pt" tvg-name="Baby TV" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/babytv_85x70.jpg" group-title="Portugal",Baby TV
+#EXTINF:-1 tvg-chno="61" tvg-id="DisneyJunior(src01).pt(m3u4u)" tvg-name="Disney Junior" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/disneyjuniorhd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Disney Junior
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2224?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="62" tvg-id="CanalPanda(src02).pt(m3u4u)" tvg-name="Canal Panda" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/pandahd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Canal Panda
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2222?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="63" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nick Jr" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%20110%20x%20110/nickjr_110x110.jpg" group-title="Portugal" tvg-shift="+1",Nick Jr
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/181786?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="64" tvg-id="BabyTV(src01).pt(m3u4u)" tvg-name="Baby TV" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/babytv_85x70.jpg" group-title="Portugal" tvg-shift="+1",Baby TV
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/556?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="65" tvg-id="LollyKids(src01).pt" tvg-name="Lolly Kids HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/lolly-kids.png" group-title="Portugal",Lolly Kids HD
+#EXTINF:-1 tvg-chno="65" tvg-id="LollyKids(src01).pt(m3u4u)" tvg-name="Lolly Kids HD" tvg-logo="https://www.meo.pt/PublishingImages/canais/lolly-kids.png" group-title="Portugal" tvg-shift="+1",Lolly Kids HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/689?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="66" tvg-id="PandaKIDS(src02).pt" tvg-name="PANDA KIDS" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/pandakids_85x70.jpg" group-title="Portugal",PANDA KIDS
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/361078?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="67" tvg-id="24Kitchen(src02).pt" tvg-name="24 Kitchen HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/24kitchen_85x70.jpg" group-title="Portugal",24 Kitchen HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/146?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="68" tvg-id="FoodNetwork(src01).pt" tvg-name="Food Network" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/food_network_hd_85x70.jpg" group-title="Portugal",Food Network
+#EXTINF:-1 tvg-chno="66" tvg-id="PandaKIDS(src02).pt(m3u4u)" tvg-name="PANDA KIDS" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/pandakids_85x70.jpg" group-title="Portugal" tvg-shift="+1",PANDA KIDS
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/361078?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="67" tvg-id="24Kitchen(src02).pt(m3u4u)" tvg-name="24 Kitchen HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/24kitchen_85x70.jpg" group-title="Portugal" tvg-shift="+1",24 Kitchen HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2203?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="68" tvg-id="FoodNetwork(src01).pt(m3u4u)" tvg-name="Food Network" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/food_network_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Food Network
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49974?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="69" tvg-id="CasaeCozinha(src01).pt" tvg-name="Casa e Cozinha HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/casacozinha_85x70.jpg" group-title="Portugal",Casa e Cozinha HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/538?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="70" tvg-id="DiscoveryChannel(src02).pt" tvg-name="Discovery Channel" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/discoveryhd_85x70.jpg" group-title="Portugal",Discovery Channel
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/90?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="71" tvg-id="Historia(src02).pt" tvg-name="Historia" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/historiahd_85x70.jpg" group-title="Portugal",Historia
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/534?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="72" tvg-id="Odisseia(src01).pt" tvg-name="Odisseia" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/odisseiahd_85x70.jpg" group-title="Portugal",Odisseia
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/554?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="73" tvg-id="NationalGeographic(src02).pt" tvg-name="National Geographic HD" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/national_geographic_channel_hd_85x70.jpg" group-title="Portugal",National Geographic HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/130?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="74" tvg-id="(no tvg-id)" tvg-name="National Geographic Wild" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nat_geo_wild_hd_85x70.jpg" group-title="Portugal",National Geographic Wild
+#EXTINF:-1 tvg-chno="69" tvg-id="CasaeCozinha(src01).pt(m3u4u)" tvg-name="Casa e Cozinha HD" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/casacozinha_85x70.jpg" group-title="Portugal" tvg-shift="+1",Casa e Cozinha HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/251726?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="70" tvg-id="DiscoveryChannel(src02).pt(m3u4u)" tvg-name="Discovery Channel" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/discoveryhd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Discovery Channel
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/272331?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="71" tvg-id="Historia(src02).pt(m3u4u)" tvg-name="Historia" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/historiahd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Historia
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2227?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="72" tvg-id="Odisseia(src01).pt(m3u4u)" tvg-name="Odisseia" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/odisseiahd_85x70.jpg" group-title="Portugal" tvg-shift="+1",Odisseia
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136678?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="73" tvg-id="NationalGeographic(src02).pt(m3u4u)" tvg-name="National Geographic HD" tvg-logo="https://www.nos.pt/RefData/SiteCollectionImages/Canais/Logos%2085%20x%2070/national_geographic_channel_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",National Geographic HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/233872?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="74" tvg-id="(no tvg-id)(m3u4u)" tvg-name="National Geographic Wild" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/nat_geo_wild_hd_85x70.jpg" group-title="Portugal" tvg-shift="+1",National Geographic Wild
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/160?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="75" tvg-id="MotorVision(src02).pt" tvg-name="Motorvision" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/motorvision_85x70.jpg" group-title="Portugal",Motorvision
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/162?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="75" tvg-id="MotorVision(src02).pt(m3u4u)" tvg-name="Motorvision" tvg-logo="https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/motorvision_85x70.jpg" group-title="Portugal" tvg-shift="+1",Motorvision
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132896?checkedby:iptvcat.com
+#EXTINF:-1 tvg-chno="75" tvg-id="(no tvg-id)(m3u4u)" tvg-name="Caça e Pesca" tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/CACAPESCA.png" group-title="Portugal" tvg-shift="+1",Caça e Pesca
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132899?checkedby:iptvcat.com
